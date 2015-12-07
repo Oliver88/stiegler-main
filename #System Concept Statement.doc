@@ -1,0 +1,10 @@
+#System Concept Statement
+
+Das Projekt „Fotomanifeste“ implementiert eine Website, die es dem Nutzer ermöglicht, Manifeste sowohl auf interaktive Weise visuell zu explorieren, als auch gezielt danach zu suchen. Ermöglicht wird dies durch eine Grid-basierte Darstellung der Manifeste (Scans des Deckblatts), welche mit Filtern verknüpft sind, die dem Nutzer die Möglichkeit bieten, die Manifeste nach bestimmten Kriterien wie Zeitraum, Alphabet, Land etc. zu sortieren und zu durchsuchen.
+ Diese vielfältigen Möglichkeiten bietet besonders Besuchern mit wissenschaftlichem Hintergrund eine solide Plattform für ihre Forschungsarbeit. Jedes Manifest ist klickbar und mit der Hauptseite des jeweiligen Manifests verknüpft, welche tiefergehende Informationen zum Manifest wie Bilder, Informationen zum Autor, Transkriptionen usw. enthält, die teilweise heruntergeladen werden können. Durch eine Hauptnavigation hat der Nutzer die Möglichkeit, nähere Informationen zum Projekt einzusehen, oder zum Impressum zu gelangen. 
+
+#Requirements
+
+
+Manifeste, die sich nicht mit dem ausgewählten Filter überdecken, verschwinden - das Grid wird mit den verbleiben Manifesten, welche die Filterkriterien erfüllen, rearrangiert. Sowohl auf die gesamte Auswahl der Manifeste, als auch auf eine spezifizierte Darstellung durch die Auswahl eines Filters, lässt sich eine textbasierte Suche anwenden.
+
